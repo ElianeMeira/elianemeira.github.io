@@ -1,0 +1,55 @@
+.formTex h1{
+    color: tomato
+}
+.formTex h2{
+    color: blue;
+}
+.formText h2{
+    color: coral;
+}
+.FormTex h2{
+    color: lightcoral;
+}
+.FormText h2{
+    color: darkmagenta;
+}
+.FormText h3{
+    color: mediumorchid;
+}
+.FormTexto h2{
+    color:darkviolet ;
+}
+.formtexto h2{
+    color: mediumorchid;
+}
+.formtex h2{
+    color: orchid;
+}
+.formTes h5{
+    color:royalblue;
+}
+.btn{
+    padding: 10px 8px;
+    width: 80px;
+    color: blue;
+    background: aqua;
+    border: 2px solid #555;
+    border-radius: 5px ;
+    user-select: none;
+    cursor: poInter;
+    
+}
+.btn:hover{
+    background: darkturquoise;
+    transition: background 1s;
+}
+
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 300px;
+    border: 1px solid black;
+    }
+    
+    body{
+        background-color: bisque;
+    }
